@@ -1,2 +1,2 @@
 # AI-Research-Persona-Based-Diversity-Multi-Agent-Simulation-for-Code-Generation-Karpathy-Inspired-
-Andrej Karpathy has nothing to do with this, except involuntarily inspiring it through X comments. 2) This is synthesized research from 11 frontier AI models, including GPT 5.1 Pro/Gemini 3 Deep Think. If you are (understably) not interested in reading AI output, stop reading now. But I believe this may be worth your time.
+Andrej Karpathy has nothing to do with this, except involuntarily inspiring it through X comments. This is synthesized research from 11 frontier AI models, including GPT 5.1 Pro/Gemini 3 Deep Think. If you are (understably) not interested in reading AI output, stop reading now. But I believe this may be worth your time.
